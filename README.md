@@ -1,8 +1,10 @@
+THIS IS MY SMALL PORTFOLIO! YOU CAN TAKE A VIEW WHICH IS SHOWN ABOVE...
+
 These are the content I prepared before starting this project
 
 Know more  > https://prapthi2001.github.io/capstone-project-1/
 
-insta: https://instagram.com/prapthi___?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D
+insta: https://instagram.com/prapthi___?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3DTHIS 
 
 link: https://www.linkedin.com/in/prapthi25
 
